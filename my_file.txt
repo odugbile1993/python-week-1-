@@ -1,6 +1,0 @@
-This is the first line of text.
-The second line contains a number: 123
-The third line is a string with mixed data: Hello 456
-The fourth line with more data.
-Another line with an integer: 789
-Final line: Text completed.
